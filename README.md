@@ -3,7 +3,7 @@ A passionate MSCS student at Northeastern University, Vancouver.
 
 ## 🚀 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthh-hub&layout=compact&theme=merko&icon_color=3CB3AB&bg_color=30,FF6F61,FF9B85&title_color=FFFFFF&text_color=FFFFFF&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthh-hub&layout=compact&theme=calm&icon_color=5CBDD8&bg_color=30,6DD5FA,98FB98&title_color=FFFFFF&text_color=FFFFFF&hide_border=true">
 
  🔭 I’m working on LLM software and distributed systems. <br>
  🌱 I’m currently learning advanced AWS cloud computing and AI/ML models. <br>
@@ -13,7 +13,7 @@ A passionate MSCS student at Northeastern University, Vancouver.
  🌎 Passionate about creating seamless, high-performance user experiences! <br>
 
 ## 💻 Tech Arsenal
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sthh-hub&show_icons=true&count_private=true&theme=merko&icon_color=3CB3AB&bg_color=30,FF6F61,FF9B85&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&include_all_commits=true&custom_title=Sherry's+GitHub+Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sthh-hub&show_icons=true&count_private=true&theme=calm&icon_color=5CBDD8&bg_color=30,6DD5FA,98FB98&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&include_all_commits=true&custom_title=Sherry's+GitHub+Stats">
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
