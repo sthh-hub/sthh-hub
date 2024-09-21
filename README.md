@@ -10,12 +10,12 @@ A passionate MSCS student at Northeastern University, Vancouver.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sthh-hub&show_icons=true&count_private=true&theme=radical&icon_color=5CBDD8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&custom_title=Sherry's+GitHub+Stats">
 
-# 🔭 I’m working on LLM software and distributed systems.
-# 🌱 I’m currently learning advanced AWS cloud computing and AI/ML models.
-# 💬 Ask me about creating web and mobile applications using the latest technologies like React, Node.js.
-# 📫 How to reach me: sherrytsaica@gmail.com
+ 🔭 I’m working on LLM software and distributed systems.
+ 🌱 I’m currently learning advanced AWS cloud computing and AI/ML models.
+ 💬 Ask me about creating web and mobile applications using the latest technologies like React, Node.js.
+ 📫 How to reach me: sherrytsaica@gmail.com
 
-# 🌎 Passionate about creating seamless, high-performance user experiences!
+ 🌎 Passionate about creating seamless, high-performance user experiences!
 
 ## 💻 Tech Arsenal
 
