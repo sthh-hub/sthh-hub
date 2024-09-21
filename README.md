@@ -15,8 +15,9 @@ A passionate MSCS student at Northeastern University, Vancouver.
 
  🌎 Passionate about creating seamless, high-performance user experiences! <br>
 
-## 💻 Tech Arsenal
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthh-hub&layout=compact&theme=radical&icon_color=5CBDD8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
 
+## 💻 Tech Arsenal
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,8 +31,8 @@ A passionate MSCS student at Northeastern University, Vancouver.
 </div>
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthh-hub&layout=compact&theme=radical&icon_color=5CBDD8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sthh-hub&show_icons=true&count_private=true&theme=radical&icon_color=5CBDD8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&custom_title=Sherry's+GitHub+Stats">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sthh-hub&show_icons=true&count_private=true&theme=radical&icon_color=5CBDD8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true&custom_title=Sherry's+GitHub+Stats">
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sthh-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
