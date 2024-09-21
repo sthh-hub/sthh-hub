@@ -29,8 +29,3 @@ A passionate MSCS student at Northeastern University, Vancouver.
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sthh-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
