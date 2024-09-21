@@ -8,10 +8,10 @@ A passionate MSCS student at Northeastern University, Vancouver.
 
 ## 🚀 About Me
 
-- 🔭 I’m working on LLM software and distributed systems.
-- 🌱 I’m currently learning advanced AWS cloud computing and AI/ML models.
-- 💬 Ask me about creating web and mobile applications using the latest technologies like React, Node.js.
-- 📫 How to reach me: sherrytsaica@gmail.com
+ 🔭 I’m working on LLM software and distributed systems.
+ 🌱 I’m currently learning advanced AWS cloud computing and AI/ML models.
+ 💬 Ask me about creating web and mobile applications using the latest technologies like React, Node.js.
+ 📫 How to reach me: sherrytsaica@gmail.com
 
 🌎 Passionate about creating seamless, high-performance user experiences!
 
