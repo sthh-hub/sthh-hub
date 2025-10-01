@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Sherry Tsai!
-A passionate MSCS graduate from Northeastern University, Vancouver.
+A passionate MSCS graduate from Northeastern University.
 
 ## 🚀 About Me
 
