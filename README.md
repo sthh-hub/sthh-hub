@@ -3,10 +3,10 @@ A passionate MSCS graduate from Northeastern University, Vancouver.
 
 ## 🚀 About Me
 
-🔭 I'm currently working on developing **AI-integrated systems** that solve real-world business problems.
-🌱 I have strong experience in **analyzing user needs** and designing **cost-effective, scalable architectures** that balance functionality and efficiency.
-🌎 I'm passionate about **turning business ideas into MVPs** that can be validated and iterated quickly.
-💡 I thrive at the intersection of **technology, product thinking, and business goals**.
+🔭 I'm currently working on developing **AI-integrated systems** that solve real-world business problems. <br>
+🌱 I have strong experience in **analyzing user needs** and designing **cost-effective, scalable architectures** that balance functionality and efficiency. <br>
+🌎 I'm passionate about **turning business ideas into MVPs** that can be validated and iterated quickly. <br>
+💡 I thrive at the intersection of **technology, product thinking, and business goals**. <br>
 
 ## 💻 Tech Arsenal
 <div align="left">
