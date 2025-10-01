@@ -3,12 +3,10 @@ A passionate MSCS graduate from Northeastern University, Vancouver.
 
 ## 🚀 About Me
 
- 🔭 I'm working on LLM software and distributed systems. <br>
- 🌱 I'm currently learning advanced AWS cloud computing and AI/ML models. <br>
- 💬 Ask me about creating web and mobile applications using the latest technologies <br>
- 📫 How to reach me: sherrytsaica@gmail.com <br>
-
- 🌎 Passionate about creating seamless, high-performance user experiences! <br>
+🔭 I'm currently working on developing **AI-integrated systems** that solve real-world business problems.
+🌱 I have strong experience in **analyzing user needs** and designing **cost-effective, scalable architectures** that balance functionality and efficiency.
+🌎 I'm passionate about **turning business ideas into MVPs** that can be validated and iterated quickly.
+💡 I thrive at the intersection of **technology, product thinking, and business goals**.
 
 ## 💻 Tech Arsenal
 <div align="left">
